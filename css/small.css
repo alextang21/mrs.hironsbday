@@ -6,10 +6,6 @@
   padding: 0;
 }
 
-.map {
-  padding: 20px;
-}
-
 .hero img {
   border-radius:0;
 }
@@ -23,5 +19,8 @@ section.intro {
   text-align: left;
 }
 section.contact {
+  text-align: center;
+}
+section.map {
   text-align: center;
 }
