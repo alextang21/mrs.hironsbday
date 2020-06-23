@@ -1,0 +1,27 @@
+
+
+.container {
+  width:100%;
+  margin: 0;
+  padding: 0;
+}
+
+.map {
+  padding: 20px;
+}
+
+.hero img {
+  border-radius:0;
+}
+
+aside.right, aside.left {
+  text-align: center;
+  float: inherit;
+}
+
+section.intro {
+  text-align: left;
+}
+section.contact {
+  text-align: center;
+}
